@@ -1,7 +1,7 @@
 # NIGHTHAWK 2016 (C)
 # AL3X V3GAS 2016 (C)
 # THE AVX PROJECT 2016 (C)
-# NIGHTHAWK 2016.0 NOX
+# NIGHTHAWK 2016.0.1 NOX
 
 import os # imports the inbuilt OS module
 import shutil # imports the inbuilt SHUTIl module
@@ -72,7 +72,7 @@ def rmvfs(dirname):
         print ("Directory existence verified, deleting...")
         shutil.rmtree(dirname)
         print ("Directory deleted!")
-    if os.path.isfile(dirname) == False:
+    else:
         print ("Directory not found.")
 
 # This function generates a key code with the following format:
