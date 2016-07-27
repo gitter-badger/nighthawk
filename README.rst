@@ -9,11 +9,24 @@ NighHawk will work for Python 2.5 - Python 3.6.
 
 Usage
 =====
-Install NightHawk with PIP. If this doesn't work, then you can clone the git repo
-to your device and navigate to the root folder and type 'python setup.py install'.
-The module is imported into the Python interpreter like any other module. To get a list of all
-available functions, navigate to the docs folder and view the file 'functions.txt'.
-To see NightHawk in action, execute the file 'sample.py' file in the 'sample' folder.
+Install NightHawk with PIP:
+
+.. code-block:: bash
+
+    $ pip install nighthawk
+
+Import it into Python:
+
+.. code-block:: bash
+
+    >>> import nighthawk
+
+Install NightHawk by cloning the repo:
+
+.. code-block:: bash
+
+    $ git clone https://github.com/al3xv3gas/nighthawk.git
+    $ python setup.py install
 
 Direct download:
 ================
