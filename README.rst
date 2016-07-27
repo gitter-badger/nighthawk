@@ -33,4 +33,4 @@ A full list of all the functions is included in the 'docs/functions.txt' file.
 Direct download:
 ================
 
-NightHawk 2016.0 Nox: https://pypi.python.org/pypi/nighthawk
+NightHawk 2016.0.1 Nox: https://pypi.python.org/pypi/nighthawk
