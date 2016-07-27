@@ -27,6 +27,8 @@ Install NightHawk by cloning the repo:
 
     $ git clone https://github.com/al3xv3gas/nighthawk.git
     $ python setup.py install
+    
+A full list of all the functions is included in the 'docs/functions.txt' file.
 
 Direct download:
 ================
