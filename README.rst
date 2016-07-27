@@ -30,6 +30,18 @@ Install NightHawk by cloning the repo:
     
 A full list of all the functions is included in the 'docs/functions.txt' file.
 
+Changelog:
+==========
+.. code-block:: bash
+
+    version 2016.0:
+        - initial release
+        - minor optimizations
+        
+    version 2016.0.1:
+        - fixed "file not found" bug
+        - new changelog entry
+
 Direct download:
 ================
 
